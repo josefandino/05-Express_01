@@ -1,0 +1,7 @@
+{
+  "nombre": "Api Rest Express - Production",
+  "version": "1.0.3",
+  "configDB":{
+    "host": "prod-de-server"
+  }
+}
